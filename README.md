@@ -1,2 +1,2 @@
-# g.h.o.s.t.-financials
-Tracks annual profit for private business
+# G.H.O.S.T. Financial Records
+Tracks profit or loss for private business
