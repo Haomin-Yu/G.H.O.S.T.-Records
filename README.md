@@ -1,3 +1,4 @@
 # G.H.O.S.T. Financial Records
-We are not affiliated with any company with similar name.  
-Repository set public to enable Github Pages  
+Financial records for an unknown private business.
+We are not affiliated with any publicly known company with similar name.  
+Repository set public for the purposes of enabling Github Pages  
